@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81ef8c76-4f9f-437c-bbd8-12a85aa736a9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 7/Lab 7 (part 2) - Decision Trees.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 7/Lab 7 (part 2) - Decision Trees.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 7/Lab 7 (part 3)- Hyperparameter Tuning in Decision Trees.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 7/Lab 7 (part 3)- Hyperparameter Tuning in Decision Trees.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 8/Clustering Lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 8/Clustering Lab.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,8 @@
       <workItem from="1766490313447" duration="117000" />
       <workItem from="1766777865501" duration="6728000" />
       <workItem from="1766838130247" duration="2314000" />
-      <workItem from="1766843538045" duration="3122000" />
+      <workItem from="1766843538045" duration="3355000" />
+      <workItem from="1766847167371" duration="2299000" />
     </task>
     <servers />
   </component>
